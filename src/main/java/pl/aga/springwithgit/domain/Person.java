@@ -1,4 +1,4 @@
-package pl.aga.springwithgit;
+package pl.aga.springwithgit.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
