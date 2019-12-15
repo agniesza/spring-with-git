@@ -10,6 +10,7 @@ public class UserController {
     @GetMapping("/bad-home")
     public String home() {
         return "home";
+        //
     }
 
 }
