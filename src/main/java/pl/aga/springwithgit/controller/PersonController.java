@@ -10,7 +10,7 @@ import pl.aga.springwithgit.Person;
 public class PersonController {
     @GetMapping("/person")
     public Person me(){
-        return new Person("ala", 'nan');
+        return new Person("ala", "nan");
 
     }
 }
